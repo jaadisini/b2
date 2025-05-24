@@ -6,7 +6,7 @@ from handlers import register_handlers
 
 import os
 
-BOT_TOKEN_UTAMA = os.getenv("BOT_TOKEN_UTAMA")
+BOT_TOKEN_UTAMA = os.getenv("7519673982:AAESvCiR8CdOASnO4MYcodV6EuB-nY28ZQA")
 bot_utama = Client("bot_utama", bot_token=BOT_TOKEN_UTAMA)
 
 # Simple state management untuk menerima token bot baru
